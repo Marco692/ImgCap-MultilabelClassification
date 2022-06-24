@@ -1,5 +1,5 @@
 # Image-Caption-Multilabel-Classification
-In this assignment, you are to solve the multi-label classification task. Each sample in this dataset includes:
+In this assignment, I am required to solve the multi-label classification task. Each sample in this dataset includes:
   
 （1）an image,
 
@@ -7,6 +7,12 @@ In this assignment, you are to solve the multi-label classification task. Each s
   
 （3）a short caption that summarizes the image.
   
-Your goal is to implement an image classifier that predicts the labels of image data sample. You may optionally include the caption in the input of your classifier
+My goal is to implement an image classifier that predicts the labels of image data sample.
+
+The specification is in Assignment2.pdf
+
+The implementation deatils are included in the Code.ipynb/ Code_Another_Version file
+
+Report is also uploaded for your reference.
 
 More details:https://www.kaggle.com/competitions/multi-label-classification-competition-22
