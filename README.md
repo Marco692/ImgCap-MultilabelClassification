@@ -11,8 +11,10 @@ My goal is to implement an image classifier that predicts the labels of image da
 
 The specification is in Assignment2.pdf
 
-The implementation deatils are included in the Code.ipynb/ Code_Another_Version file
+The implementation deatils are included in the BestModel_AlBert_EffNetB3.ipynb/ Comparison_BiLSTM_EffNetB4.ipynb file
 
 Report is also uploaded for your reference.
+
+Final score:93/100
 
 More details:https://www.kaggle.com/competitions/multi-label-classification-competition-22
