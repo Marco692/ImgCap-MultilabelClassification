@@ -8,3 +8,5 @@ In this assignment, you are to solve the multi-label classification task. Each s
 （3）a short caption that summarizes the image.
   
 Your goal is to implement an image classifier that predicts the labels of image data sample. You may optionally include the caption in the input of your classifier
+
+More details:https://www.kaggle.com/competitions/multi-label-classification-competition-22
